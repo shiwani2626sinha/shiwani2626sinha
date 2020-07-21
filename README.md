@@ -1,4 +1,4 @@
-### Hi there I am Shiwani Sinha! 👋
+### Hi there, this is Shiwani Sinha! 👋
 
 
 
