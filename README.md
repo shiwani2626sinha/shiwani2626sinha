@@ -1,5 +1,5 @@
 ### Hi there, this is Shiwani Sinha! 👋
-![](https://komarev.com/ghpvc/?shiwani2626sinha)
+![](https://komarev.com/ghpvc/?username=shiwani2626sinha)
 
 
 
