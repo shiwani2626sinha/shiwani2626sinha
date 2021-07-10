@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a SWE 
 - 🌱 I’m currently mastering Frontend<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
--AWS / SSO / AD SERVER 
+-  AWS / SSO / AD SERVER 
 - 📫 How to reach me: shiwani2626@gmail.com
 
 **Languages and Tools:**  
