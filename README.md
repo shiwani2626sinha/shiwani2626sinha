@@ -4,7 +4,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 - 🔭 I’m currently working as a SWE 
-- 🌱 I’m currently mastering Frontend<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🌱 javascript dev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -  AWS / SSO / AD SERVER 
 - 📫 How to reach me: shiwani2626@gmail.com
 
